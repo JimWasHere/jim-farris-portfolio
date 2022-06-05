@@ -1,0 +1,51 @@
+body {
+
+    text-align: center;
+}
+h2 {
+    margin: 25px;
+}
+
+
+.image {
+    width: 50%;
+    border-radius: 10%;
+    border-style: solid;
+
+}
+
+.btn {
+    margin-top: 10px;
+}
+.headline {
+    background-color: #34679a;
+    height: 100px;
+
+}
+.catchphrase {
+    padding-top: 35px;
+    text-align: left;
+}
+.logo {
+    font-size: 50px;
+    padding-top: 30px;
+
+}
+
+.color_block {
+    height: 22%;
+    width: 100%;
+    margin: 10px;
+    border-radius: 20%;
+    border-style: solid;
+}
+
+.color_column {
+    margin-top: 10px;
+}
+
+.color_text {
+    margin: 20%;
+
+}
+
