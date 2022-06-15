@@ -2,3 +2,5 @@
 personal portfolio website in progress
 
 Currently a work in progress, plan to update it with projects before publication
+
+Building dnd reference into site
